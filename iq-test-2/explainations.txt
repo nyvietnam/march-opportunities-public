@@ -1,0 +1,70 @@
+001. No Explaination
+
+002. D: lines across proceed +1, +2, +3. Lines down proceed +3, +2, +1
+
+003. C: in all the others the black circle is connected to three white circles. In C it is 
+only connected to two white circles
+
+004. No Explaination
+
+005.  A: each line moves 45° clockwise from top to bottom.
+
+006.  C: A and B are the same string, albeit starting in a different position, as are D 
+and E.
+
+007. B: looking across and down the contents of the first two tiles are combined to produce the contents of the end tile
+
+008. D: the rest are the same figure rotated.
+
+009. A: each line across and down contains one each of the lines in a different position (the lines are moving downwards one notch at a time; when they reach the bottom they return to the top position at the next stage).
+
+010. D: columns 1 and 3 are the same symbols reversed, as are columns 2 and 4
+
+011. D: in all the others a black circle is in the middle of the chain of three connected 
+circles;
+
+012. B; it has lateral symmetry, in other words if the square was cut from top to 
+bottom down the middle, the two halves (left and right) would be identical;
+
+013. B: reverse each line and discard the third figure from the end each time;
+
+014. B: reversing the first analogy, the four black squares become one white square 
+in the centre with four arms attached to it
+
+015. D. The lower circles’ symbols combine to form the circle above, but similar 
+symbols disappear
+
+016: A. 84: (7 × 4) × 9/3 = 84; (6 × 8) × 10/5 = 96; (3 × 7) × 8/2 = 84;
+
+017. D: the black triangle affixes itself to each arm in turn, the white triangle moves backwards and forwards between two positions, the triangle with the dot moves to each end of the middle arm (above then below) in turn, and the circle moves clockwise to each internal corner in turn;
+
+018. D: the others are all the same figure rotated
+
+019.  D: the figure rotates 90° at each stage and a different portion is shaded in turn;
+
+020. C. 16: 12 + 16 = 28/7 = 4;
+
+021. E: x is added to y to make z, 1 is added to 2 to make 3, but similar symbols disappear;
+
+022. 11. Opposite numbers are deducted then added:
+6 – 1 = 5, 7 – 2 = 5, 9 – 3 = 6, 5+5+6=16
+8 – 3 = 5, 4 – 2 = 2, 9 – 1 = 8, 5+2+8=15
+7 – 3 = 4, 9 – 7 = 2, 6 – 1 = 5, 4+2+5=11
+
+023. A. No explanation
+
+024. B: there are two alternate sequences. In the first, the hexagon is losing one side at a time, in the other the hexagon is being constructed one line at 
+a time;
+
+025. A. 7: add the numbers in the same segments of the first two circles to obtain the numbers in the same segments in the third circle. So, 3 + 5 = 8, 2 + 7 = 9, 4 + 3 = 7;
+
+026. E: the rectangle rotates 90°, the parallelogram flips over and goes inside the rectangle and the ellipse rotates 90° and goes below the rectangle
+
+027. B: so that each row and column contains one each of the three different 
+symbols;
+
+028. D. O: opposite letters are the same number of letters from the beginning and end of the alphabet respectively;
+
+029. A. 10: starting from the bottom and working to the top, each triangular group of three numbers totals 21;
+
+030. D: each circle in the bottom half is a repeat of a circle in the top half, but rotated 90° clockwise
